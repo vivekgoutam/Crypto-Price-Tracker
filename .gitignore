@@ -1,0 +1,25 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+venv/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Python specific ignores
+__pycache__/
+*.py[cod]
+.Python
+
+# Jupyter Notebook specific ignores
+.ipynb_checkpoints/
+
+# IntelliJ IDEA specific ignores
+.idea_modules/
+.idea/workspace.xml
+
+# Other IDEs and editors
+.vscode/
+*.sublime-project
+*.sublime-workspace
